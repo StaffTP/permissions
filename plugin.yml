@@ -1,0 +1,6 @@
+name: Permissions
+description: Permissions Plugin
+version: 1.0
+main: me.trixtxn.Permissions.Permissions
+author: Trixtxn
+

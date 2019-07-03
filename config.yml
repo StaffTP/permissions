@@ -1,0 +1,4 @@
+Groups:
+  member:
+    permissions:
+      - example.permission
